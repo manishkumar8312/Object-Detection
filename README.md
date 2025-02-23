@@ -63,5 +63,4 @@ This project is licensed under the Apache License.
 
 ---
 
-Feel free to modify this README according to your project's specifics!
 
