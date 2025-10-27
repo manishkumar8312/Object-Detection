@@ -2,14 +2,13 @@
 
 ## Overview
 This project implements object detection using deep learning models. The goal is to identify and locate objects within an image or video stream.
-
-
+```
 ## Features
 - Detect multiple objects in images and videos
 - Supports real-time detection
 - Utilizes pre-trained deep learning models
 - Customizable for specific object categories
-
+```
 ## Installation
 1. Clone the repository:
    ```sh
